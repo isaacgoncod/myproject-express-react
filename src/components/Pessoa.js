@@ -10,3 +10,4 @@ function Pessoa({ nome, idade, profissao, foto }) {
 }
 
 export default Pessoa;
+  
